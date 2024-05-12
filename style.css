@@ -99,7 +99,7 @@ nav ul {
 }
 
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 400px) {
     .gameContainer {
         flex-wrap: wrap;
     }
